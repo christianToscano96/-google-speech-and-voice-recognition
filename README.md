@@ -2,8 +2,8 @@
 usando JavaScript
 
 <div align="center"> 
-     <img width="45%" src="img1.jpg" alt="About screen" title="About screen"</img> 
+     <img width="45%" src="img1.jpg"> </img> 
      <img height="0" width="8px"> 
-     
+     <img width="45%" src="img1.jpg"  ></img> 
 </div> 
 
